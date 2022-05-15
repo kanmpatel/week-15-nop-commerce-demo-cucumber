@@ -1,0 +1,100 @@
+2022-05-15 23:05:767 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 23:05:298 INFO  HomePage :52 - click on 'COMPUTER' tab :[[ChromeDriver: chrome on WINDOWS (ec337ad254e59ed55bb8ce3a15cf173d)] -> link text: Computers]
+2022-05-15 23:05:767 INFO  ComputerPage :32 - get the 'COMPUTER' text :[[ChromeDriver: chrome on WINDOWS (ec337ad254e59ed55bb8ce3a15cf173d)] -> xpath: //h1[contains(text(),'Computers')]]
+2022-05-15 23:05:707 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 23:05:537 INFO  HomePage :52 - click on 'COMPUTER' tab :[[ChromeDriver: chrome on WINDOWS (21a5fb4fa3b727a08f40c8fc2e477d22)] -> link text: Computers]
+2022-05-15 23:05:28 INFO  ComputerPage :37 - click on 'DESKTOP' button :[[ChromeDriver: chrome on WINDOWS (21a5fb4fa3b727a08f40c8fc2e477d22)] -> xpath: //li[@class="inactive"]/child::a[contains(text(),'Desktops')]]
+2022-05-15 23:05:474 INFO  DeskTopPage :35 - get the 'DESKTOP' text :[[ChromeDriver: chrome on WINDOWS (21a5fb4fa3b727a08f40c8fc2e477d22)] -> xpath: //h1[contains(text(),'Desktops')]]
+2022-05-15 23:05:161 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 23:05:356 INFO  HomePage :52 - click on 'COMPUTER' tab :[[ChromeDriver: chrome on WINDOWS (251c29b1325f076b4ded74f7ac7a9a26)] -> link text: Computers]
+2022-05-15 23:05:829 INFO  ComputerPage :37 - click on 'DESKTOP' button :[[ChromeDriver: chrome on WINDOWS (251c29b1325f076b4ded74f7ac7a9a26)] -> xpath: //li[@class="inactive"]/child::a[contains(text(),'Desktops')]]
+2022-05-15 23:05:282 INFO  DeskTopPage :50 - click on 'PRODUCT' :Build your own computer
+2022-05-15 23:05:432 INFO  BuildYourOwnComputerPage :46 - get the 'BUILD YOUR COMPUTER' text :[[ChromeDriver: chrome on WINDOWS (251c29b1325f076b4ded74f7ac7a9a26)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2022-05-15 23:05:459 INFO  BuildYourOwnComputerPage :51 - select the 'PROCESSOR' from drop down:[[ChromeDriver: chrome on WINDOWS (251c29b1325f076b4ded74f7ac7a9a26)] -> xpath: //select[@id='product_attribute_1']]
+2022-05-15 23:05:529 INFO  BuildYourOwnComputerPage :56 - select the 'RAM' from drop down:[[ChromeDriver: chrome on WINDOWS (251c29b1325f076b4ded74f7ac7a9a26)] -> xpath: //select[@id='product_attribute_2']]
+2022-05-15 23:05:599 INFO  BuildYourOwnComputerPage :60 - click on 'HDD' from radio button :320 GB
+2022-05-15 23:05:648 INFO  BuildYourOwnComputerPage :70 - click on 'OS' from radio button :Vista Home [+$50.00]
+2022-05-15 23:05:722 INFO  BuildYourOwnComputerPage :82 - click on 'SOFTWARE' from check box :Microsoft Office [+$50.00]
+2022-05-15 23:05:761 INFO  BuildYourOwnComputerPage :89 - click on 'ADD TO CART' button :[[ChromeDriver: chrome on WINDOWS (251c29b1325f076b4ded74f7ac7a9a26)] -> xpath: //button[@id='add-to-cart-button-1']]
+2022-05-15 23:05:620 INFO  BuildYourOwnComputerPage :94 - get the 'ADD TO CARD' text :[[ChromeDriver: chrome on WINDOWS (251c29b1325f076b4ded74f7ac7a9a26)] -> xpath: //body/div[@id='bar-notification']/div[1]/p[1]]
+2022-05-15 23:05:293 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 23:05:757 INFO  HomePage :52 - click on 'COMPUTER' tab :[[ChromeDriver: chrome on WINDOWS (a75956d28fe97d545605da896f0572a5)] -> link text: Computers]
+2022-05-15 23:05:222 INFO  ComputerPage :37 - click on 'DESKTOP' button :[[ChromeDriver: chrome on WINDOWS (a75956d28fe97d545605da896f0572a5)] -> xpath: //li[@class="inactive"]/child::a[contains(text(),'Desktops')]]
+2022-05-15 23:05:607 INFO  DeskTopPage :50 - click on 'PRODUCT' :Build your own computer
+2022-05-15 23:05:266 INFO  BuildYourOwnComputerPage :46 - get the 'BUILD YOUR COMPUTER' text :[[ChromeDriver: chrome on WINDOWS (a75956d28fe97d545605da896f0572a5)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2022-05-15 23:05:291 INFO  BuildYourOwnComputerPage :51 - select the 'PROCESSOR' from drop down:[[ChromeDriver: chrome on WINDOWS (a75956d28fe97d545605da896f0572a5)] -> xpath: //select[@id='product_attribute_1']]
+2022-05-15 23:05:330 INFO  BuildYourOwnComputerPage :56 - select the 'RAM' from drop down:[[ChromeDriver: chrome on WINDOWS (a75956d28fe97d545605da896f0572a5)] -> xpath: //select[@id='product_attribute_2']]
+2022-05-15 23:05:377 INFO  BuildYourOwnComputerPage :60 - click on 'HDD' from radio button :400 GB [+$100.00]
+2022-05-15 23:05:440 INFO  BuildYourOwnComputerPage :70 - click on 'OS' from radio button :Vista Premium [+$60.00]
+2022-05-15 23:05:529 INFO  BuildYourOwnComputerPage :82 - click on 'SOFTWARE' from check box :Acrobat Reader [+$10.00]
+2022-05-15 23:05:563 INFO  BuildYourOwnComputerPage :89 - click on 'ADD TO CART' button :[[ChromeDriver: chrome on WINDOWS (a75956d28fe97d545605da896f0572a5)] -> xpath: //button[@id='add-to-cart-button-1']]
+2022-05-15 23:05:855 INFO  BuildYourOwnComputerPage :94 - get the 'ADD TO CARD' text :[[ChromeDriver: chrome on WINDOWS (a75956d28fe97d545605da896f0572a5)] -> xpath: //body/div[@id='bar-notification']/div[1]/p[1]]
+2022-05-15 23:05:526 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 23:05:19 INFO  HomePage :52 - click on 'COMPUTER' tab :[[ChromeDriver: chrome on WINDOWS (289cc974fe8e754892db33273d33c01b)] -> link text: Computers]
+2022-05-15 23:05:473 INFO  ComputerPage :37 - click on 'DESKTOP' button :[[ChromeDriver: chrome on WINDOWS (289cc974fe8e754892db33273d33c01b)] -> xpath: //li[@class="inactive"]/child::a[contains(text(),'Desktops')]]
+2022-05-15 23:05:878 INFO  DeskTopPage :50 - click on 'PRODUCT' :Build your own computer
+2022-05-15 23:05:502 INFO  BuildYourOwnComputerPage :46 - get the 'BUILD YOUR COMPUTER' text :[[ChromeDriver: chrome on WINDOWS (289cc974fe8e754892db33273d33c01b)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2022-05-15 23:05:523 INFO  BuildYourOwnComputerPage :51 - select the 'PROCESSOR' from drop down:[[ChromeDriver: chrome on WINDOWS (289cc974fe8e754892db33273d33c01b)] -> xpath: //select[@id='product_attribute_1']]
+2022-05-15 23:05:558 INFO  BuildYourOwnComputerPage :56 - select the 'RAM' from drop down:[[ChromeDriver: chrome on WINDOWS (289cc974fe8e754892db33273d33c01b)] -> xpath: //select[@id='product_attribute_2']]
+2022-05-15 23:05:605 INFO  BuildYourOwnComputerPage :60 - click on 'HDD' from radio button :320 GB
+2022-05-15 23:05:657 INFO  BuildYourOwnComputerPage :70 - click on 'OS' from radio button :Vista Home [+$50.00]
+2022-05-15 23:05:744 INFO  BuildYourOwnComputerPage :82 - click on 'SOFTWARE' from check box :Total Commander [+$5.00]
+2022-05-15 23:05:778 INFO  BuildYourOwnComputerPage :89 - click on 'ADD TO CART' button :[[ChromeDriver: chrome on WINDOWS (289cc974fe8e754892db33273d33c01b)] -> xpath: //button[@id='add-to-cart-button-1']]
+2022-05-15 23:05:71 INFO  BuildYourOwnComputerPage :94 - get the 'ADD TO CARD' text :[[ChromeDriver: chrome on WINDOWS (289cc974fe8e754892db33273d33c01b)] -> xpath: //body/div[@id='bar-notification']/div[1]/p[1]]
+2022-05-15 23:05:735 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 23:05:538 INFO  HomePage :37 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (b86fb97c3286863a127472b042e681fd)] -> link text: Log in]
+2022-05-15 23:05:968 INFO  LoginPage :58 - get the 'WELCOME' text :[[ChromeDriver: chrome on WINDOWS (b86fb97c3286863a127472b042e681fd)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-05-15 23:05:656 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 23:05:493 INFO  HomePage :37 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (9f5043b194a10c385795935acf87d371)] -> link text: Log in]
+2022-05-15 23:05:931 INFO  LoginPage :38 - enter the 'EMAIL ADDRESS' :abcd123@gmail.comto email address field
+2022-05-15 23:05:02 INFO  LoginPage :43 - enter the 'PASSWORD' :xyz123to password field
+2022-05-15 23:05:82 INFO  LoginPage :48 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (9f5043b194a10c385795935acf87d371)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-15 23:05:447 INFO  LoginPage :53 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (9f5043b194a10c385795935acf87d371)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-15 23:05:126 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 23:05:891 INFO  HomePage :37 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (fa1a3159239989c516f80866ca5fb4c3)] -> link text: Log in]
+2022-05-15 23:05:279 INFO  LoginPage :38 - enter the 'EMAIL ADDRESS' :xyz123@gmail.comto email address field
+2022-05-15 23:05:344 INFO  LoginPage :43 - enter the 'PASSWORD' :abc123to password field
+2022-05-15 23:05:418 INFO  LoginPage :48 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (fa1a3159239989c516f80866ca5fb4c3)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-15 23:05:799 INFO  LoginPage :53 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (fa1a3159239989c516f80866ca5fb4c3)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-15 23:05:481 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 23:05:985 INFO  HomePage :37 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (9cc449c9a344f75a9c33784155aeb720)] -> link text: Log in]
+2022-05-15 23:05:390 INFO  LoginPage :38 - enter the 'EMAIL ADDRESS' :adfafasd@gmail.comto email address field
+2022-05-15 23:05:434 INFO  LoginPage :43 - enter the 'PASSWORD' :xyz123to password field
+2022-05-15 23:05:505 INFO  LoginPage :48 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (9cc449c9a344f75a9c33784155aeb720)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-15 23:05:867 INFO  LoginPage :53 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (9cc449c9a344f75a9c33784155aeb720)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-15 23:05:543 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 23:05:321 INFO  HomePage :37 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (067db5143ec1fe63b18772927fe1f88c)] -> link text: Log in]
+2022-05-15 23:05:758 INFO  LoginPage :38 - enter the 'EMAIL ADDRESS' :abc222@gmail.comto email address field
+2022-05-15 23:05:821 INFO  LoginPage :43 - enter the 'PASSWORD' :abc123456to password field
+2022-05-15 23:05:902 INFO  LoginPage :48 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (067db5143ec1fe63b18772927fe1f88c)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-15 23:05:315 INFO  LoginPage :63 - get the 'LOGOUT' link :Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log out')]'
+2022-05-15 23:05:259 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 23:05:764 INFO  HomePage :37 - click on 'LOGIN' link :[[ChromeDriver: chrome on WINDOWS (cdc92feda19f308207722a4af0c1528b)] -> link text: Log in]
+2022-05-15 23:05:195 INFO  LoginPage :38 - enter the 'EMAIL ADDRESS' :abc222@gmail.comto email address field
+2022-05-15 23:05:262 INFO  LoginPage :43 - enter the 'PASSWORD' :abc123456to password field
+2022-05-15 23:05:338 INFO  LoginPage :48 - click on 'LOGIN' button :[[ChromeDriver: chrome on WINDOWS (cdc92feda19f308207722a4af0c1528b)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-15 23:05:770 INFO  LoginPage :68 - click on 'LOGOUT' button :Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log out')]'
+2022-05-15 23:05:625 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 23:05:109 INFO  HomePage :42 - click on 'REGISTER' link :[[ChromeDriver: chrome on WINDOWS (6b6d0bbb72775c58c1d4cac0dcc77b91)] -> link text: Register]
+2022-05-15 23:05:516 INFO  RegisterPage :77 - get the 'REGISTER' text :[[ChromeDriver: chrome on WINDOWS (6b6d0bbb72775c58c1d4cac0dcc77b91)] -> xpath: //h1[contains(text(),'Register')]]
+2022-05-15 23:05:192 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 23:05:958 INFO  HomePage :42 - click on 'REGISTER' link :[[ChromeDriver: chrome on WINDOWS (b1109d366c11f6c751f58bda894b6c7b)] -> link text: Register]
+2022-05-15 23:05:404 INFO  RegisterPage :134 - click on 'REGISTER' button :[[ChromeDriver: chrome on WINDOWS (b1109d366c11f6c751f58bda894b6c7b)] -> id: register-button]
+2022-05-15 23:05:496 INFO  RegisterPage :139 - get the 'FIRST NAME' text :[[ChromeDriver: chrome on WINDOWS (b1109d366c11f6c751f58bda894b6c7b)] -> id: FirstName-error]
+2022-05-15 23:05:525 INFO  RegisterPage :143 - get the 'LAST NAME' text :[[ChromeDriver: chrome on WINDOWS (b1109d366c11f6c751f58bda894b6c7b)] -> id: LastName-error]
+2022-05-15 23:05:552 INFO  RegisterPage :147 - get the 'EMAIL ADDRESS' text :[[ChromeDriver: chrome on WINDOWS (b1109d366c11f6c751f58bda894b6c7b)] -> id: Email-error]
+2022-05-15 23:05:579 INFO  RegisterPage :151 - get the 'PASSWORD' text :[[ChromeDriver: chrome on WINDOWS (b1109d366c11f6c751f58bda894b6c7b)] -> id: Password-error]
+2022-05-15 23:05:605 INFO  RegisterPage :155 - get the 'CONFIRM PASSWORD' text :[[ChromeDriver: chrome on WINDOWS (b1109d366c11f6c751f58bda894b6c7b)] -> id: ConfirmPassword-error]
+2022-05-15 23:05:287 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 23:05:92 INFO  HomePage :42 - click on 'REGISTER' link :[[ChromeDriver: chrome on WINDOWS (e015d42805ca410b9ec724c2c7dfe97d)] -> link text: Register]
+2022-05-15 23:05:524 INFO  RegisterPage :82 - click on 'MALE OR FEMALE' radio button :F
+2022-05-15 23:05:606 INFO  RegisterPage :93 - enter the 'FIRST NAME' :johnto first name field
+2022-05-15 23:05:671 INFO  RegisterPage :99 - enter the 'LAST NAME' :johnto last name field
+2022-05-15 23:05:748 INFO  RegisterPage :104 - select the 'DATE OF BIRTHDAY' from drop down:[[ChromeDriver: chrome on WINDOWS (e015d42805ca410b9ec724c2c7dfe97d)] -> name: DateOfBirthDay]
+2022-05-15 23:05:816 INFO  RegisterPage :109 - select the 'DATE OF BIRTHMONTH' from drop down:[[ChromeDriver: chrome on WINDOWS (e015d42805ca410b9ec724c2c7dfe97d)] -> name: DateOfBirthMonth]
+2022-05-15 23:05:884 INFO  RegisterPage :114 - select the 'DATE OF BIRTHYEAR' from drop down:[[ChromeDriver: chrome on WINDOWS (e015d42805ca410b9ec724c2c7dfe97d)] -> name: DateOfBirthYear]
+2022-05-15 23:05:934 INFO  RegisterPage :119 - enter the 'EMAIL' :VRrjohn@gmail.comto email field
+2022-05-15 23:05:985 INFO  RegisterPage :124 - enter the 'PASSWORD' :john12345to password field
+2022-05-15 23:05:36 INFO  RegisterPage :129 - enter the 'CONFIRM PASSWORD' :john12345to confirm password field
+2022-05-15 23:05:90 INFO  RegisterPage :134 - click on 'REGISTER' button :[[ChromeDriver: chrome on WINDOWS (e015d42805ca410b9ec724c2c7dfe97d)] -> id: register-button]
+2022-05-15 23:05:767 INFO  RegisterPage :160 - get the 'ERROR MESSAGE' text :[[ChromeDriver: chrome on WINDOWS (e015d42805ca410b9ec724c2c7dfe97d)] -> css selector: div.result]
